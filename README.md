@@ -8,6 +8,8 @@ Step 2: Input audio and use digital human driver algorithms such as wav2lip or v
 Step 3: Use CodeFormer, GFPGAN, PGEN, etc. for post segmentation repair.
 ***
 
+![Alt text](input_image/100.jpg)
+
 ## Inference  
 ### Please click on the Colab link below to inference.
 
