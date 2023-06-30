@@ -18,9 +18,9 @@ Step 3: Use CodeFormer, GFPGAN, PGEN, etc. for post segmentation repair.
 
 ***
 
-![Alt text](input_image/100.jpg)
-![Alt text](input_image/8888.jpg)
-![Alt text](output/6301.mp4)
+![input_image](input_image/100.jpg)
+![input_image](input_image/8888.jpg)
+![output-video](output/6301.mp4)
 
 ## Useful links:
 https://github.com/sczhou/CodeFormer
