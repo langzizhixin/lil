@@ -21,7 +21,9 @@ Step 3: Use CodeFormer, GFPGAN, PGEN, etc. for post segmentation repair.
 
 ## Useful links:
 https://github.com/sczhou/CodeFormer
+
 https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model
+
 https://github.com/Rudrabha/Wav2Lip
 ### 
 ### 
