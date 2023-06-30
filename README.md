@@ -7,9 +7,6 @@ Step 1: Enter an image and use action transfer algorithms such as DaGAN, DPE, Th
 Step 2: Input audio and use digital human driver algorithms such as wav2lip or video retailing, DInet, etc. to drive the migrated video into a speaking video.
 Step 3: Use CodeFormer, GFPGAN, PGEN, etc. for post segmentation repair.
 ***
-
-![Alt text](input_image/100.jpg)
-
 ## Inference  
 ### Please click on the Colab link below to inference.
 
@@ -21,6 +18,9 @@ Step 3: Use CodeFormer, GFPGAN, PGEN, etc. for post segmentation repair.
 
 ***
 
+![Alt text](input_image/100.jpg)
+![Alt text](input_image/8888.jpg)
+![Alt text](output/6301.mp4)
 ## Useful links:
 https://github.com/sczhou/CodeFormer
 
