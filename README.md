@@ -1,5 +1,5 @@
-Lavender Heart Technology “lil”，
-ImageTalking-Wav2Lip-CodeFormer，
+Lavender Heart Technology "lil",
+ImageTalking-Wav2Lip-CodeFormer,
 This code is only used to demonstrate the input of an image, followed by action transfer to imitate the image into a video, followed by language driven mouth shaping using wav2lip, and finally, the high-definition process using CodeFormer.
 The effect is better than Sadtalker.
 I have already opened up this solution to Bilibili Video in March, and now I will open up the code together.
